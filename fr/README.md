@@ -1,21 +1,19 @@
- [![English](https://img.shields.io/badge/lang-en-blue.svg)](./README.md)   [![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./fr/README.md)
+[![English](https://img.shields.io/badge/lang-en-blue.svg)](../README.md)   [![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.md) 
+<h1 align="center"> Salut, c'est Sabino Monte</h1>
+<h4 align="center">alias Don Lazzylife</h4>
+<h3 align="center">Étudiant à 42 Lausanne</h3>
 
-<h1 align="center"> Hi, I'm Sabino Monte</h1>
-<h4 align="center">aka Don Lazzylife</h4>
-<h3 align="center">A 42 Lausanne student </h3>
+- 🌱 J'apprends actuellement : **l'informatique audio | le hardware | le hacking**
+- 💬 Posez-moi des questions sur : **C | Audio Engineering**
+- 📫 Comment me contacter : **LinkedIn ou Email**
 
-
-- 🌱 I’m currently learning : **Audio stuff | Hardware | Hacking**
-- 💬 Ask me about : **C/Audio Engineering**
-- 📫 How to reach me : **LinkedIn or Email**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sabino-monte/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://sabinomonte.ch" target="_blank"><img align="center" src="https://img.icons8.com/ios/452/internet.png" alt="Website" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Langages et Outils :</h3>
 <p align="left">
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
