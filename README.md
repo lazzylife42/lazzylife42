@@ -7,7 +7,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://www.gravatar.com/avatar/7143472326aca2f0913bd9fdfb1708fe?s=240&d=mp" alt="img" width="240" height="200" /></td>
+      <td><img src="https://www.gravatar.com/avatar/7143472326aca2f0913bd9fdfb1708fe?s=240&d=mp" alt="img" style="max-width: 200px; height: auto;" /></td>
       <td><img src="https://github-readme-stats.vercel.app/api?username=lazzylife42&show_icons=true&hide=commits&theme=dark" alt="stats" height="200" /></td>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazzylife42&layout=compact&theme=dark" alt="stats" height="200" /></td>
     </tr>
