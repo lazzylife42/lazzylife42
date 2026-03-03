@@ -17,7 +17,7 @@
 ---
 
 Data Engineer · open to opportunities  
-École 42 alumni · audio engineer · electronic music producer as **Don Lazzylife**.
+École 42 Lausanne · audio engineer · electronic music producer as **Lazzylife**.
 
 ---
 
