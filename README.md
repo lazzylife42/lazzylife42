@@ -1,71 +1,82 @@
-[![English](https://img.shields.io/badge/lang-en-blue.svg)](./README.md)   [![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./fr/README.md)
+<h1 align="center">Sabino Monte</h1>
+<h3 align="center">Data Engineer · lazzylife42</h3>
 
-<h1 align="center"> Hi, I'm Sabino Monte</h1>
-<h4 align="center">aka Don Lazzylife</h4>
-<h3 align="center">A 42 Lausanne student </h3>
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://www.gravatar.com/avatar/7143472326aca2f0913bd9fdfb1708fe?s=240&d=mp" alt="img" style="max-width: 200px; height: auto;" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=lazzylife42&show_icons=true&hide=commits&theme=dark" alt="stats" height="200" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazzylife42&layout=compact&theme=dark" alt="stats" height="200" /></td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <p>🌱 I’m currently learning: <strong>Audio stuff | Hardware | Hacking</strong></p>
-  <p>💬 Ask me about: <strong>C/Audio Engineering</strong></p>
-  <p>📫 How to reach me: <strong>LinkedIn or Email</strong></p>
-</div>
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/sabino-monte/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://sabinomonte.ch" target="_blank">
-    <img align="center" src="https://img.icons8.com/ios/452/internet.png" alt="Website" height="30" width="40" />
+  <a href="https://sabinomonte.ch"><img src="https://img.shields.io/badge/sabinomonte.ch-000000?style=flat-square&logo=safari&logoColor=white"/></a>
+  <a href="mailto:contact@sabinomonte.dev"><img src="https://img.shields.io/badge/contact@sabinomonte.dev-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sabino-monte/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Lausanne%2C%20CH-grey?style=flat-square&logo=googlemaps&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="https://www.gravatar.com/avatar/7143472326aca2f0913bd9fdfb1708fe?s=240&d=mp">
+    <img src="https://www.gravatar.com/avatar/7143472326aca2f0913bd9fdfb1708fe?s=120&d=mp" style="border-radius:50%"/>
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+---
+
+Data Engineer · open to opportunities  
+École 42 alumni · audio engineer · electronic music producer as **Don Lazzylife**.
+
+---
+
+### Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airbyte-615EFF?style=flat-square&logo=airbyte&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Iceberg-00B4D8?style=flat-square"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+### What I'm working on
+
+- 🔧 **Marketing pipelines** — Meta / Snapchat API integration → Redshift, modular PySpark framework
+- 🧊 **Iceberg partitioning** — automated analysis tool across 500+ tables via Glue Catalog
+- 🎛️ **Mappy** — real-time audio/MIDI visualization system on Raspberry Pi (open-source, WIP)
+
+---
+
+### Projects
+
+<p>
+
+[**ft_transcendence**](https://github.com/lazzylife42/ft_transcendence) — Real-time multiplayer web app (Django, React, WebSocket) · Pong tournaments & secure chat
+
+[**CRESCENTIA**](https://github.com/lazzylife42/CRESCENTIA) — Game jam project @ 42 Lausanne · Yacc
+
+[**cub3d**](https://github.com/lazzylife42/cub3d) — Raycasting engine in C
+</p>
+
+---
+
+### Stats
+
 <p align="center">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" style="filter: invert(100%);" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://developer.apple.com/macos/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="mac" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.ableton.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://cdn-resources.ableton.com/80bA26cPQ1hEJDFjpUKntxfqdmG3ZykO/static/images/apple-touch-icon.fb3597184cb0.png" alt="ableton" width="40" height="40" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=lazzylife42&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly"/>
+</p>
+
+---
+
+<p align="center">
+  <sub>data by day · sound by night</sub>
 </p>
